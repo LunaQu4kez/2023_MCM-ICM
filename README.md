@@ -1,2 +1,2 @@
 # 2023 MCM/ACM
-Problem C
+2023/02/17-223/02/21 Problem C Wordle
